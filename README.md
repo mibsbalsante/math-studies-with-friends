@@ -6,3 +6,5 @@ some code challenges :shipit:
 - add a README.md file describing the challenge
 - add a `[your username here].[ext]` with your solution or a directory named `[your username here]` with your solution inside
 - help your friends to improve their solutions
+
+__have you seen some code in the root directory? create a pull request fixing it__
